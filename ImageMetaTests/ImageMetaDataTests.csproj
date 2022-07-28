@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
+    <None Include="Images2-s1.csv" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
@@ -64,6 +65,92 @@
       <Project>{780b2603-6781-4654-982a-f7da3d3c8fb7}</Project>
       <Name>ImageMetaData</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images2\tank01-s1.jpg" />
+    <Content Include="Images2\tank02-s1.jpg" />
+    <Content Include="Images2\tank03-s1.jpg" />
+    <Content Include="Images2\tank04-s1.jpg" />
+    <Content Include="Images2\tank05-s1.jpg" />
+    <Content Include="Images2\tank06-s1.jpg" />
+    <Content Include="Images2\tank07-s1.jpg" />
+    <Content Include="Images2\tank08-s1.jpg" />
+    <Content Include="Images2\tank09-s1.jpg" />
+    <Content Include="Images2\tank10-s1.jpg" />
+    <Content Include="Images2\tank11-s1.jpg" />
+    <Content Include="Images2\tank12-s1.jpg" />
+    <Content Include="Images2\tank13-s1.jpg" />
+    <Content Include="Images2\tank14-s1.jpg" />
+    <Content Include="Images2\tank15-s1.jpg" />
+    <Content Include="Images2\tank16-s1.jpg" />
+    <Content Include="Images2\tank17-s1.jpg" />
+    <Content Include="Images2\tank18-s1.jpg" />
+    <Content Include="Images2\tank19-s1.jpg" />
+    <Content Include="Images2\tank20-s1.jpg" />
+    <Content Include="Images2\tank21-s1.jpg" />
+    <Content Include="Images2\tank22-s1.jpg" />
+    <Content Include="Images2\tank23-s1.jpg" />
+    <Content Include="Images2\tank24-s1.jpg" />
+    <Content Include="Images2\tank25-s1.jpg" />
+    <Content Include="Images2\tank26-s1.jpg" />
+    <Content Include="Images2\tank27-s1.jpg" />
+    <Content Include="Images2\tank28-s1.jpg" />
+    <Content Include="Images2\tank29-s1.jpg" />
+    <Content Include="Images2\tank30-s1.jpg" />
+    <Content Include="Images2\tank31-s1.jpg" />
+    <Content Include="Images2\tank32-s1.jpg" />
+    <Content Include="Images2\tank33-s1.jpg" />
+    <Content Include="Images2\tank34-s1.jpg" />
+    <Content Include="Images2\tank35-s1.jpg" />
+    <Content Include="Images2\tank36-s1.jpg" />
+    <Content Include="Images2\tank37-s1.jpg" />
+    <Content Include="Images2\tank38-s1.jpg" />
+    <Content Include="Images2\tank39-s1.jpg" />
+    <Content Include="Images2\tank40-s1.jpg" />
+    <Content Include="Images2\tank41-s1.jpg" />
+    <Content Include="Images2\tank42-s1.jpg" />
+    <Content Include="Images\tank01-s1.jpg" />
+    <Content Include="Images\tank02-s1.jpg" />
+    <Content Include="Images\tank03-s1.jpg" />
+    <Content Include="Images\tank04-s1.jpg" />
+    <Content Include="Images\tank05-s1.jpg" />
+    <Content Include="Images\tank06-s1.jpg" />
+    <Content Include="Images\tank07-s1.jpg" />
+    <Content Include="Images\tank08-s1.jpg" />
+    <Content Include="Images\tank09-s1.jpg" />
+    <Content Include="Images\tank10-s1.jpg" />
+    <Content Include="Images\tank11-s1.jpg" />
+    <Content Include="Images\tank12-s1.jpg" />
+    <Content Include="Images\tank13-s1.jpg" />
+    <Content Include="Images\tank14-s1.jpg" />
+    <Content Include="Images\tank15-s1.jpg" />
+    <Content Include="Images\tank16-s1.jpg" />
+    <Content Include="Images\tank17-s1.jpg" />
+    <Content Include="Images\tank18-s1.jpg" />
+    <Content Include="Images\tank19-s1.jpg" />
+    <Content Include="Images\tank20-s1.jpg" />
+    <Content Include="Images\tank21-s1.jpg" />
+    <Content Include="Images\tank22-s1.jpg" />
+    <Content Include="Images\tank23-s1.jpg" />
+    <Content Include="Images\tank24-s1.jpg" />
+    <Content Include="Images\tank25-s1.jpg" />
+    <Content Include="Images\tank26-s1.jpg" />
+    <Content Include="Images\tank27-s1.jpg" />
+    <Content Include="Images\tank28-s1.jpg" />
+    <Content Include="Images\tank29-s1.jpg" />
+    <Content Include="Images\tank30-s1.jpg" />
+    <Content Include="Images\tank31-s1.jpg" />
+    <Content Include="Images\tank32-s1.jpg" />
+    <Content Include="Images\tank33-s1.jpg" />
+    <Content Include="Images\tank34-s1.jpg" />
+    <Content Include="Images\tank35-s1.jpg" />
+    <Content Include="Images\tank36-s1.jpg" />
+    <Content Include="Images\tank37-s1.jpg" />
+    <Content Include="Images\tank38-s1.jpg" />
+    <Content Include="Images\tank39-s1.jpg" />
+    <Content Include="Images\tank40-s1.jpg" />
+    <Content Include="Images\tank41-s1.jpg" />
+    <Content Include="Images\tank42-s1.jpg" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
