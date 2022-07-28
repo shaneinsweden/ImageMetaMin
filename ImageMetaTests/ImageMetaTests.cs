@@ -15,8 +15,8 @@ namespace ImageMetaDataTests
       public void UpdateCatalog()
       {
          //arrange
-         string imageFolder = @"E:\GitHub\Shaneinsweden\ImageMetaMin\ImageMetaTests\Images2";
-         string keyWordFile = @"E:\GitHub\Shaneinsweden\ImageMetaMin\ImageMetaTests\Images2-s1.csv";
+         string imageFolder = @"<set your path>\ImageMetaMin\ImageMetaTests\Images2";
+         string keyWordFile = @"<set your path\ImageMetaMin\ImageMetaTests\Images2-s1.csv";
  
          //act this method works for approx 80 images at a time then crashes
 
